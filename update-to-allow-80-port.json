@@ -156,6 +156,7 @@
    "sourcePortRange": "*",
    "destinationAddressPrefix": "*",
    "destinationPortRange": "80"
+   }
    },
           {
             "name": "SSH",
